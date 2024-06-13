@@ -1,4 +1,4 @@
-package com.example.flutter_shady_weather_demo
+package com.example.flutter_visualizer
 
 import io.flutter.embedding.android.FlutterActivity
 
